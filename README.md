@@ -1,4 +1,7 @@
 # Expense Analytics Dashboard
+## 🚀 Live Demo
+
+[Try the Live Dashboard](https://expense-analytics-dashboard.streamlit.app/)
 
 A Python-based personal expense tracking and analytics application that combines structured CSV storage with an interactive Streamlit dashboard.
 
