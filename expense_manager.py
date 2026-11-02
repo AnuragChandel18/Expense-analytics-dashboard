@@ -11,7 +11,7 @@ class ExpenseManager:
     """Business logic and CSV persistence for the expense application."""
 
     categories = [
-        "Food",
+        "Food"
         "Transport",
         "Housing",
         "Utilities",
