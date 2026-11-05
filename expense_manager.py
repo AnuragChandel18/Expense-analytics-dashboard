@@ -29,7 +29,7 @@ class ExpenseManager:
         self.data_file = Path(data_file)
         self._ensure_file()
 
-    def _ensure_file(self) -> None:
+    def _ensure_file(self):
         if not self.data_file.exists():
             with self.data_file.open("w", newline="", encoding="utf-8") as file:
                 csv.DictWriter(file, fieldnames=self.fieldnames).writeheader()
