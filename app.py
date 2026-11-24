@@ -13,8 +13,7 @@ DATA_FILE = Path("expenses.csv")
 manager = ExpenseManager(DATA_FILE)
 
 st.title("💰 Expense Analytics Dashboard")
-st.caption("Track, analyze and understand personal spending with Python and CSV
-.")
+st.caption("Track, analyze and understand personal spending with Python and CSV.")
 
 # Sidebar
 st.sidebar.header("Add Expense")
