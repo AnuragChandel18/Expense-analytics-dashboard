@@ -100,18 +100,10 @@ The dashboard calculates:
 - Working with CSV as a lightweight data store
 - Using pandas for aggregation and filtering
 - Building an interactive data dashboard with Streamlit
-- Thinking about data integrity when writing files
 - Presenting raw data as decision-useful metrics
 
-## Future Improvements
-
-- SQLite database
-- Budget limits and alerts
-- Export filtered reports
-- Authentication
-- Recurring expenses
-- More advanced visualizations
 
 ## Author
 
-Anurag Singh Chandel
+- Anurag Singh Chandel
+- Teneshwar Dwivedi
